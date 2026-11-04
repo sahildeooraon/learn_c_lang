@@ -1,4 +1,5 @@
 /*program: 05_comment.c
+author: sahil deo oraon
 date: 27sep2026
 */
 
